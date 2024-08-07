@@ -17,6 +17,6 @@ git clone https://github.com/CYBERCOP-404/HPKG.git
 cd HPKG
 python hamster.py
 ```
-# THIS IS A POMO CODE GENARATOR FOR ALL OF OPEN SOURCE CODE ... 
+# THIS IS A POMO CODE GENARATOR FOR ALL OF USERS ... 
 ### IF YOU LEARN THIS PYTHON CODE. MASSAGE ME ON TELEGRAM . 
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
