@@ -1,5 +1,4 @@
-<img width=100% title="CYBER-COP" alt="CYBER-COP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JPI-CST-2324&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
-
+<img width=100% title="CYBER-COP" alt="CYBER-COP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HPCG&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
